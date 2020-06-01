@@ -1,6 +1,5 @@
 # JanataHack-Machine-Learning-for-Banking
-Repository for Analytics Vidhya Hackathon
-
+Data at a Glance
 <img src="data.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
