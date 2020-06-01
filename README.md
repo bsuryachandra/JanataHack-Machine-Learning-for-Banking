@@ -20,4 +20,4 @@ Data at a Glance
 4.matplotlib and seaborn was used for plotting and analyzing the data\
 #### Competition Result
 Rank: 2nd on public LB and 4th on private LB\
-[link to LeaderBoard!](https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-banking/#LeaderBoard)\
+[link to LeaderBoard!](https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-banking/#LeaderBoard)
